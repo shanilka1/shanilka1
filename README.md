@@ -189,7 +189,7 @@ https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-ba
 ## 📌 Advanced Commit Insights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KawyaDissanayaka&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanilka1&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
