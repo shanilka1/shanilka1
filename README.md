@@ -87,6 +87,96 @@
 
 ---
 
+## 📋 Repository Details
+
+### 🎯 shanilka1/shanilka1
+
+**Repository Information:**
+- **Repository ID:** 1161485728
+- **Owner:** shanilka1
+- **Visibility:** Public
+- **Default Branch:** main
+- **Created:** 2026-02-19
+- **Last Updated:** 2026-02-19
+- **Stars:** 0
+- **Forks:** 0
+- **Open Issues:** 0
+- **Watchers:** 0
+
+**Repository Settings:**
+- Allow Forking: ✅ Yes
+- Allow Merge Commit: ✅ Yes
+- Allow Rebase Merge: ✅ Yes
+- Allow Squash Merge: ✅ Yes
+- Has Issues: ✅ Yes
+- Has Projects: ✅ Yes
+- Has Pull Requests: ✅ Yes
+- Has Wiki: ✅ Yes
+- Has Discussions: ❌ No
+- Has Pages: ❌ No
+
+---
+
+## 📝 Commit History
+
+### Total Commits: 2
+
+#### Commit 1: Latest
+**SHA:** `9f14f11fb7a975f1d91ce9198bf2f8d8ef1c66b8`  
+**Author:** Shanilka Lakshan (shanilka1)  
+**Email:** shanilkamax111@gmail.com  
+**Date:** 2026-02-19 06:50:42 UTC  
+**Message:** 
+```
+Revise README.md for improved personal branding
+
+Updated README.md to enhance personal introduction and showcase skills.
+```
+**Verified:** ✅ Yes  
+**Committer:** GitHub (web-flow)  
+**URL:** https://github.com/shanilka1/shanilka1/commit/9f14f11fb7a975f1d91ce9198bf2f8d8ef1c66b8
+
+---
+
+#### Commit 2: Initial
+**SHA:** `3cbe318ff2c369168926a364412f8fb066ee985e`  
+**Author:** Shanilka Lakshan (shanilka1)  
+**Email:** shanilkamax111@gmail.com  
+**Date:** 2026-02-19 06:50:05 UTC  
+**Message:** 
+```
+Initial commit
+```
+**Verified:** ✅ Yes  
+**Committer:** GitHub (web-flow)  
+**URL:** https://github.com/shanilka1/shanilka1/commit/3cbe318ff2c369168926a364412f8fb066ee985e
+
+---
+
+## 🗣️ Languages Used
+
+**Current Repository:** No specific programming languages detected (Markdown-based profile repository)
+
+**Primary Languages Across Projects:**
+- JavaScript/React
+- Java
+- Python
+- SQL
+- HTML/CSS
+
+---
+
+## 🏅 Earned Medals & Achievements
+
+✅ **Full Stack Development**  
+✅ **Python Mastery**  
+✅ **UI / UX Design**  
+✅ **GitHub Profile Recognition**  
+✅ **Teaching Excellence (Grade 6-11)**  
+✅ **Computer Science Honors Degree**  
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🛒 ShopNest Project  
