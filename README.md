@@ -87,71 +87,8 @@
 
 ---
 
-## 📋 Repository Details
 
-### 🎯 shanilka1/shanilka1
 
-**Repository Information:**
-- **Repository ID:** 1161485728
-- **Owner:** shanilka1
-- **Visibility:** Public
-- **Default Branch:** main
-- **Created:** 2026-02-19
-- **Last Updated:** 2026-02-19
-- **Stars:** 0
-- **Forks:** 0
-- **Open Issues:** 0
-- **Watchers:** 0
-
-**Repository Settings:**
-- Allow Forking: ✅ Yes
-- Allow Merge Commit: ✅ Yes
-- Allow Rebase Merge: ✅ Yes
-- Allow Squash Merge: ✅ Yes
-- Has Issues: ✅ Yes
-- Has Projects: ✅ Yes
-- Has Pull Requests: ✅ Yes
-- Has Wiki: ✅ Yes
-- Has Discussions: ❌ No
-- Has Pages: ❌ No
-
----
-
-## 📝 Commit History
-
-### Total Commits: 2
-
-#### Commit 1: Latest
-**SHA:** `9f14f11fb7a975f1d91ce9198bf2f8d8ef1c66b8`  
-**Author:** Shanilka Lakshan (shanilka1)  
-**Email:** shanilkamax111@gmail.com  
-**Date:** 2026-02-19 06:50:42 UTC  
-**Message:** 
-```
-Revise README.md for improved personal branding
-
-Updated README.md to enhance personal introduction and showcase skills.
-```
-**Verified:** ✅ Yes  
-**Committer:** GitHub (web-flow)  
-**URL:** https://github.com/shanilka1/shanilka1/commit/9f14f11fb7a975f1d91ce9198bf2f8d8ef1c66b8
-
----
-
-#### Commit 2: Initial
-**SHA:** `3cbe318ff2c369168926a364412f8fb066ee985e`  
-**Author:** Shanilka Lakshan (shanilka1)  
-**Email:** shanilkamax111@gmail.com  
-**Date:** 2026-02-19 06:50:05 UTC  
-**Message:** 
-```
-Initial commit
-```
-**Verified:** ✅ Yes  
-**Committer:** GitHub (web-flow)  
-**URL:** https://github.com/shanilka1/shanilka1/commit/3cbe318ff2c369168926a364412f8fb066ee985e
-
----
 
 ## 🗣️ Languages Used
 
@@ -204,13 +141,6 @@ https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-ba
 
 ---
 
-## 🏅 Certifications
-
-✅ Full Stack Development  
-✅ Python Mastery  
-✅ UI / UX Design  
-
----
 
 ## 📅 Commit Calendar
 
@@ -224,6 +154,11 @@ https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-ba
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shanilka1&color=blueviolet&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/shanilka1?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/shanilka1?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Total Stars" />
+
+
+
 </p>
 
 ---
@@ -248,6 +183,19 @@ https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-ba
   <a href="https://wa.me/94767094260">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
+</p>
+
+---
+## 📌 Advanced Commit Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KawyaDissanayaka&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shanilka1&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shanilka1&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanilka1&theme=tokyonight" width="32%" />
 </p>
 
 ---
