@@ -1,0 +1,55 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 140" width="100%" height="140">
+  <defs>
+    <linearGradient id="nsbmBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B132B" />
+      <stop offset="50%" stop-color="#1C2541" />
+      <stop offset="100%" stop-color="#0A192F" />
+    </linearGradient>
+    <linearGradient id="nsbmGreen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E676" />
+      <stop offset="100%" stop-color="#00B0FF" />
+    </linearGradient>
+    <filter id="cardGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#00E676" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <rect width="796" height="136" x="2" y="2" rx="16" fill="url(#nsbmBg)" stroke="#00E676" stroke-width="1.5" stroke-opacity="0.6" filter="url(#cardGlow)"/>
+
+  <!-- Crest Graphic -->
+  <g transform="translate(30, 25)">
+    <rect width="90" height="90" rx="18" fill="#00E676" fill-opacity="0.1" stroke="#00E676" stroke-width="1.5"/>
+    <!-- Shield -->
+    <path d="M45 15 L70 28 L70 55 Q70 75 45 82 Q20 75 20 55 L20 28 Z" fill="#00E676" fill-opacity="0.2" stroke="#00E676" stroke-width="2"/>
+    <!-- Graduation Cap -->
+    <path d="M45 28 L62 37 L45 46 L28 37 Z" fill="#00E676"/>
+    <path d="M34 43 L34 54 Q45 60 56 54 L56 43" fill="none" stroke="#00E676" stroke-width="2" stroke-linecap="round"/>
+    <path d="M59 39 L59 52" stroke="#00B0FF" stroke-width="2" stroke-linecap="round"/>
+    <!-- Leaf -->
+    <path d="M45 56 Q52 61 50 67 Q45 65 40 67 Q38 61 45 56 Z" fill="#00E676"/>
+  </g>
+
+  <!-- Content -->
+  <g transform="translate(145, 0)">
+    <rect x="0" y="22" width="130" height="22" rx="11" fill="#00E676" fill-opacity="0.15" stroke="#00E676" stroke-width="1"/>
+    <text x="65" y="37" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" fill="#00E676" text-anchor="middle" letter-spacing="1">UNDERGRADUATE</text>
+
+    <text x="0" y="68" font-family="'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="800" fill="#FFFFFF" letter-spacing="0.5">
+      NSBM Green University, Sri Lanka
+    </text>
+    
+    <text x="0" y="93" font-family="'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" fill="url(#nsbmGreen)">
+      🎓 BSc (Hons) in Computer Science
+    </text>
+
+    <text x="0" y="115" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" fill="#8892B0">
+      Faculty of Computing • Software Engineering &amp; Practical Systems Architecture
+    </text>
+  </g>
+
+  <!-- Plymouth / Partner Badge -->
+  <g transform="translate(630, 24)">
+    <rect width="140" height="32" rx="8" fill="#00B0FF" fill-opacity="0.12" stroke="#00B0FF" stroke-width="1"/>
+    <text x="70" y="21" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#00B0FF" text-anchor="middle">🏛️ Top University</text>
+  </g>
+</svg>

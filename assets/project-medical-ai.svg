@@ -1,0 +1,41 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" width="100%" height="240">
+  <defs>
+    <linearGradient id="bgMed" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4C0519" />
+      <stop offset="100%" stop-color="#0F172A" />
+    </linearGradient>
+    <linearGradient id="gradMed" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F43F5E" />
+      <stop offset="100%" stop-color="#FB7185" />
+    </linearGradient>
+  </defs>
+  <rect width="596" height="236" x="2" y="2" rx="16" fill="url(#bgMed)" stroke="#F43F5E" stroke-width="1.5" stroke-opacity="0.5"/>
+  
+  <g transform="translate(30, 30)">
+    <rect width="48" height="48" rx="12" fill="#F43F5E" fill-opacity="0.15" stroke="#F43F5E" stroke-width="1.5"/>
+    <text x="24" y="32" font-size="24" text-anchor="middle">🩺</text>
+    
+    <text x="65" y="26" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#FFFFFF">Medical AI Chatbot</text>
+    <text x="65" y="44" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="url(#gradMed)">AI HEALTHCARE &amp; DIAGNOSTIC ASSISTANT</text>
+    
+    <text x="0" y="85" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" fill="#94A3B8">
+      <tspan x="0" dy="0">Intelligent conversational health bot utilizing Natural Language</tspan>
+      <tspan x="0" dy="20">Processing (NLP) and machine learning models for preliminary symptom</tspan>
+      <tspan x="0" dy="20">inquiry and medical assistance advice.</tspan>
+    </text>
+    
+    <g transform="translate(0, 150)">
+      <rect width="70" height="26" rx="6" fill="#3B82F6" fill-opacity="0.15" stroke="#3B82F6" stroke-width="1"/>
+      <text x="35" y="17" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#60A5FA" text-anchor="middle">Python</text>
+      
+      <rect x="78" width="85" height="26" rx="6" fill="#F43F5E" fill-opacity="0.15" stroke="#F43F5E" stroke-width="1"/>
+      <text x="120" y="17" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#FDA4AF" text-anchor="middle">NLP / ML</text>
+      
+      <rect x="171" width="60" height="26" rx="6" fill="#10B981" fill-opacity="0.15" stroke="#10B981" stroke-width="1"/>
+      <text x="201" y="17" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#34D399" text-anchor="middle">Flask</text>
+
+      <rect x="239" width="80" height="26" rx="6" fill="#A855F7" fill-opacity="0.15" stroke="#A855F7" stroke-width="1"/>
+      <text x="279" y="17" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#C084FC" text-anchor="middle">Chatbot</text>
+    </g>
+  </g>
+</svg>
