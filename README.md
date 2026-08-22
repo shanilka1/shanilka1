@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:0A192F&height=220&section=header&text=Shanilka%20Lakshan&fontSize=46&fontColor=00E7FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ICT%20Educator%20%7C%20Computer%20Science%20Undergraduate&descFontSize=16&descColor=8892B0&descAlignY=62"/>
 </p>
 
@@ -54,15 +54,15 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
 ## 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,express,python,dart,flutter,mysql,postgres,mongodb,firebase,html,css,tailwind,bootstrap,git,github,vscode,idea,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,js,react,nodejs,express,python,dart,flutter,mysql,postgres,mongodb,firebase,html,css,tailwind,bootstrap,git,github,vscode,idea,postman,figma" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Languages-C%23%20%7C%20Java%20%7C%20JavaScript%20%7C%20Python%20%7C%20Dart-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Frontend-React.js%20%7C%20TailwindCSS%20%7C%20HTML5%20%7C%20CSS3-blue?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Backend-Spring%20Boot%20%7C%20Node.js%20%7C%20Express-green?style=for-the-badge&logo=springboot"/>
+  <img src="https://img.shields.io/badge/Backend-.NET%20%7C%20Spring%20Boot%20%7C%20Node.js-green?style=for-the-badge&logo=dotnet"/>
   <img src="https://img.shields.io/badge/Mobile-Flutter%20%7C%20Dart-02569B?style=for-the-badge&logo=flutter"/>
   <img src="https://img.shields.io/badge/Databases-MySQL%20%7C%20PostgreSQL%20%7C%20Firebase-orange?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20Data-Python%20%7C%20NLP%20%7C%20REST%20APIs-8A2BE2?style=for-the-badge&logo=python"/>
 </p>
 
 ---
@@ -81,12 +81,13 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/shanilka1/Laundry-Pickup-Delivery-Management-System-">
+      <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-frontend">
         <img src="./assets/project-laundry.svg" alt="Laundry Management System" width="100%"/>
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/shanilka1/Laundry-Pickup-Delivery-Management-System-"><b>🔗 View Repository</b></a>
+        <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-frontend"><b>🔗 Frontend</b></a> • 
+        <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-backend"><b>⚙️ Backend</b></a>
       </p>
     </td>
   </tr>

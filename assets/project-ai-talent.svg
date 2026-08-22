@@ -6,7 +6,7 @@
     </linearGradient>
     <linearGradient id="gradAi" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#38BDF8" />
-      <stop offset="100%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#A855F7" />
     </linearGradient>
   </defs>
   <rect width="596" height="236" x="2" y="2" rx="16" fill="url(#bgAi)" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.5"/>
@@ -29,17 +29,17 @@
     
     <!-- Tech Stack Badges -->
     <g transform="translate(0, 150)">
-      <rect width="70" height="26" rx="6" fill="#38BDF8" fill-opacity="0.15" stroke="#38BDF8" stroke-width="1"/>
-      <text x="35" y="17" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#38BDF8" text-anchor="middle">React.js</text>
+      <rect width="55" height="26" rx="6" fill="#9333EA" fill-opacity="0.15" stroke="#9333EA" stroke-width="1"/>
+      <text x="27.5" y="17" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#C084FC" text-anchor="middle">C#</text>
       
-      <rect x="78" width="75" height="26" rx="6" fill="#818CF8" fill-opacity="0.15" stroke="#818CF8" stroke-width="1"/>
-      <text x="115" y="17" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#818CF8" text-anchor="middle">Node.js</text>
+      <rect x="63" width="65" height="26" rx="6" fill="#512BD4" fill-opacity="0.2" stroke="#818CF8" stroke-width="1"/>
+      <text x="95.5" y="17" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#818CF8" text-anchor="middle">.NET</text>
       
-      <rect x="161" width="75" height="26" rx="6" fill="#A855F7" fill-opacity="0.15" stroke="#A855F7" stroke-width="1"/>
-      <text x="198" y="17" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#C084FC" text-anchor="middle">AI / NLP</text>
+      <rect x="136" width="75" height="26" rx="6" fill="#38BDF8" fill-opacity="0.15" stroke="#38BDF8" stroke-width="1"/>
+      <text x="173.5" y="17" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#38BDF8" text-anchor="middle">AI / NLP</text>
 
-      <rect x="244" width="85" height="26" rx="6" fill="#34D399" fill-opacity="0.15" stroke="#34D399" stroke-width="1"/>
-      <text x="286" y="17" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#34D399" text-anchor="middle">TailwindCSS</text>
+      <rect x="219" width="80" height="26" rx="6" fill="#34D399" fill-opacity="0.15" stroke="#34D399" stroke-width="1"/>
+      <text x="259" y="17" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#34D399" text-anchor="middle">Full Stack</text>
     </g>
   </g>
 </svg>
