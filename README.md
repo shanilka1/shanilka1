@@ -85,10 +85,10 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
         <i>Smart AI-powered recruitment &amp; resume optimization platform featuring automated skill matching and candidate analytics.</i>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/C%23-.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/AI%2F%20NLP-Engine-FF6F00?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/Web%20API-Backend-0078D4?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI%2F%20NLP-Matching-FF6F00?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL%20Server-Database-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://github.com/shanilka1/AI-Talent-Hub"><b>🔗 View Repository →</b></a>
@@ -104,10 +104,10 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
         <i>Full-stack closed-loop laundry pickup &amp; automated delivery management platform with real-time tracking telemetry.</i>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-REST%20API-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST%20APIs-Services-0052CC?style=flat-square&logo=postman&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-frontend"><b>🔗 Frontend Repo ↗</b></a> &nbsp;|&nbsp; 
@@ -126,10 +126,10 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
         <i>Centralized academic resource sharing &amp; university community platform tailored for Computer Science undergraduates.</i>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tailwind-CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloud-Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-Language-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-Framework-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/OOP%20%2F%20MVC-Architecture-6366F1?style=flat-square&logo=codeforces&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://github.com/shanilka1/nsbm-student-hub"><b>🔗 View Repository →</b></a>
@@ -167,10 +167,10 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
         <i>Modern full-stack online shopping platform featuring real-time product search, cart lifecycle, and checkout.</i>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-REST%20API-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5%20%2F%20CSS3-Frontend-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-Client-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://github.com/DarshanaChinthaka/web-project-EC.git"><b>🔗 View Repository →</b></a>
@@ -186,10 +186,10 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
         <i>AI-driven healthcare assistant providing automated preliminary symptom diagnosis &amp; medical inquiry response.</i>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-AI%20Engine-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-Language-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Flask-Backend-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/NLP-Scikit--Learn-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/NLP%20%2F%20ML-Models-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Chatbot-Healthcare-008080?style=flat-square&logo=openai&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://github.com/KawyaDissanayaka/Medical_ChatBot"><b>🔗 View Repository →</b></a>
@@ -208,8 +208,8 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-Full%20Stack-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/HTML5%2FCSS3-UI-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/Payment-Gateways-0070BA?style=flat-square&logo=paypal&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5%20%2F%20CSS3-UI-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Payment-Gateway-0070BA?style=flat-square&logo=paypal&logoColor=white" />
         <img src="https://img.shields.io/badge/EdTech-Grade%206--11-9C27B0?style=flat-square&logo=googleclassroom&logoColor=white" />
       </p>
       <p align="center">
