@@ -82,13 +82,14 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
       <img src="https://img.shields.io/badge/🤖_AI_Talent_Hub-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" width="100%"/>
       <br/><br/>
       <p align="center">
-        <i>Smart AI-powered recruitment &amp; resume optimization platform featuring automated skill matching and candidate analytics.</i>
+        <i>Smart AI recruitment platform built with ASP.NET Core Web API, C#, EF Core &amp; SQL Server featuring JWT authentication and AI-driven candidate matching.</i>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/C%23-.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/Web%20API-Backend-0078D4?style=flat-square&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI%2F%20NLP-Matching-FF6F00?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/ASP.NET%20Core-Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-Language-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/EF%20Core-ORM-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
         <img src="https://img.shields.io/badge/SQL%20Server-Database-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://github.com/shanilka1/AI-Talent-Hub"><b>🔗 View Repository →</b></a>
@@ -101,13 +102,14 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
       <img src="https://img.shields.io/badge/🧺_Laundry_Express_System-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" width="100%"/>
       <br/><br/>
       <p align="center">
-        <i>Full-stack closed-loop laundry pickup &amp; automated delivery management platform with real-time tracking telemetry.</i>
+        <i>Enterprise laundry pickup &amp; delivery system with Spring Boot REST APIs, JWT Role-Based Access Control (Admin, Customer, Delivery), React dashboards &amp; MySQL.</i>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-Backend-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-Language-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST%20APIs-Services-0052CC?style=flat-square&logo=postman&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-RBAC-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-frontend"><b>🔗 Frontend Repo ↗</b></a> &nbsp;|&nbsp; 
@@ -129,7 +131,7 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
         <img src="https://img.shields.io/badge/Java-Language-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/Spring%20Boot-Framework-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/OOP%20%2F%20MVC-Architecture-6366F1?style=flat-square&logo=codeforces&logoColor=white" />
+        <img src="https://img.shields.io/badge/OOP%20%2F%20MVC-Architecture-6366F1?style=flat-square" />
       </p>
       <p align="center">
         <a href="https://github.com/shanilka1/nsbm-student-hub"><b>🔗 View Repository →</b></a>
@@ -142,13 +144,13 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
       <img src="https://img.shields.io/badge/🌱_EcoTrack_Sustainability-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" width="100%"/>
       <br/><br/>
       <p align="center">
-        <i>Cross-platform sustainability mobile application empowering users to monitor carbon footprints and eco daily habits.</i>
+        <i>Responsive Flutter (Dart) mobile &amp; web app powered by Firebase Auth, Cloud Firestore &amp; Storage with Layered Clean Architecture (146+ tests).</i>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-Mobile%20%26%20Web-02569B?style=flat-square&logo=flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/Dart-Language-0175C2?style=flat-square&logo=dart&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-Realtime-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Green%20Tech-IoT-10B981?style=flat-square&logo=leaf&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-Firestore%20%26%20Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Clean%20Arch-146%2B%20Tests-10B981?style=flat-square&logo=leaf&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://ecotrack-100ff.web.app"><b>🌐 Live Web App ↗</b></a> &nbsp;|&nbsp; 
