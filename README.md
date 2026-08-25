@@ -70,7 +70,7 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
 ## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00E7FF&height=50&text=PROJECTS%20GALLERY&fontSize=24&fontColor=000000&fontAlignY=55" width="100%" />
+  <img src="https://img.shields.io/badge/PROJECTS_GALLERY-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" width="100%" />
 </p>
 
 <table width="100%">
@@ -79,8 +79,10 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
       <a href="https://github.com/shanilka1/AI-Talent-Hub">
         <img src="./assets/project-ai-talent.svg" alt="AI Talent Hub" width="100%"/>
       </a>
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=00E7FF&height=32&text=%F0%9F%A4%96%20AI%20Talent%20Hub&fontSize=15&fontColor=000000&fontAlignY=55" width="100%"/>
-      <br/><br/>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/🤖_AI_Talent_Hub-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" />
+      </p>
       <p align="center">
         <i>Smart AI-powered recruitment &amp; resume optimization platform featuring automated skill matching and candidate analytics.</i>
       </p>
@@ -91,16 +93,17 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
         <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://ai-talent-hub.vercel.app"><b>🌐 Live Web App ↗</b></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/shanilka1/AI-Talent-Hub"><b>💻 GitHub →</b></a>
+        <a href="https://github.com/shanilka1/AI-Talent-Hub"><b>🔗 View Repository →</b></a>
       </p>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-frontend">
         <img src="./assets/project-laundry.svg" alt="Laundry Management System" width="100%"/>
       </a>
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=00E7FF&height=32&text=%F0%9F%A7%BA%20Smart%20Laundry%20Express&fontSize=15&fontColor=000000&fontAlignY=55" width="100%"/>
-      <br/><br/>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/🧺_Laundry_Express_System-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" />
+      </p>
       <p align="center">
         <i>Full-stack closed-loop laundry pickup &amp; automated delivery management platform with real-time tracking telemetry.</i>
       </p>
@@ -111,8 +114,8 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
         <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://laundry-express.vercel.app"><b>🌐 Live Dashboard ↗</b></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-frontend"><b>💻 GitHub →</b></a>
+        <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-frontend"><b>🔗 Frontend Repo ↗</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-backend"><b>⚙️ Backend Repo ↗</b></a>
       </p>
     </td>
   </tr>
@@ -121,8 +124,10 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
       <a href="https://github.com/shanilka1/nsbm-student-hub">
         <img src="./assets/project-nsbm-hub.svg" alt="NSBM Student Hub" width="100%"/>
       </a>
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=00E7FF&height=32&text=%F0%9F%8D%93%20NSBM%20Student%20Hub&fontSize=15&fontColor=000000&fontAlignY=55" width="100%"/>
-      <br/><br/>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/🎓_NSBM_Student_Hub-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" />
+      </p>
       <p align="center">
         <i>Centralized academic resource sharing &amp; university community platform tailored for Computer Science undergraduates.</i>
       </p>
@@ -133,16 +138,17 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
         <img src="https://img.shields.io/badge/Cloud-Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://nsbm-student-hub.vercel.app"><b>🌐 Live Web Portal ↗</b></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/shanilka1/nsbm-student-hub"><b>💻 GitHub →</b></a>
+        <a href="https://github.com/shanilka1/nsbm-student-hub"><b>🔗 View Repository →</b></a>
       </p>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/shanilka1/EcoTrack">
         <img src="./assets/project-ecotrack.svg" alt="EcoTrack" width="100%"/>
       </a>
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=00E7FF&height=32&text=%F0%9F%8C%BF%20EcoTrack%20Sustainability&fontSize=15&fontColor=000000&fontAlignY=55" width="100%"/>
-      <br/><br/>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/🌱_EcoTrack_Sustainability-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" />
+      </p>
       <p align="center">
         <i>Cross-platform sustainability mobile application empowering users to monitor carbon footprints and eco daily habits.</i>
       </p>
@@ -153,8 +159,7 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
         <img src="https://img.shields.io/badge/Green%20Tech-IoT-10B981?style=flat-square&logo=leaf&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://ecotrack-app.vercel.app"><b>🌐 Live App ↗</b></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/shanilka1/EcoTrack"><b>💻 GitHub →</b></a>
+        <a href="https://github.com/shanilka1/EcoTrack"><b>🔗 View Repository →</b></a>
       </p>
     </td>
   </tr>
@@ -163,8 +168,10 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
       <a href="https://github.com/DarshanaChinthaka/web-project-EC.git">
         <img src="./assets/project-shopnest.svg" alt="ShopNest E-Commerce" width="100%"/>
       </a>
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=00E7FF&height=32&text=%F0%9F%9B%8D%EF%B8%8F%20ShopNest%20E-Commerce&fontSize=15&fontColor=000000&fontAlignY=55" width="100%"/>
-      <br/><br/>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/🛍️_ShopNest_E--Commerce-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" />
+      </p>
       <p align="center">
         <i>Modern full-stack online shopping platform featuring real-time product search, cart lifecycle, and checkout.</i>
       </p>
@@ -175,16 +182,17 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
         <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://shopnest-store.vercel.app"><b>🌐 Live Store ↗</b></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/DarshanaChinthaka/web-project-EC.git"><b>💻 GitHub →</b></a>
+        <a href="https://github.com/DarshanaChinthaka/web-project-EC.git"><b>🔗 View Repository →</b></a>
       </p>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/KawyaDissanayaka/Medical_ChatBot">
         <img src="./assets/project-medical-ai.svg" alt="Medical AI Chatbot" width="100%"/>
       </a>
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=00E7FF&height=32&text=%F0%9F%A9%BA%20Medical%20AI%20Chatbot&fontSize=15&fontColor=000000&fontAlignY=55" width="100%"/>
-      <br/><br/>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/🩺_Medical_AI_Chatbot-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" />
+      </p>
       <p align="center">
         <i>AI-driven healthcare assistant providing automated preliminary symptom diagnosis &amp; medical inquiry response.</i>
       </p>
@@ -195,8 +203,7 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
         <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
       </p>
       <p align="center">
-        <a href="https://medical-ai-bot.vercel.app"><b>🌐 Live AI App ↗</b></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/KawyaDissanayaka/Medical_ChatBot"><b>💻 GitHub →</b></a>
+        <a href="https://github.com/KawyaDissanayaka/Medical_ChatBot"><b>🔗 View Repository →</b></a>
       </p>
     </td>
   </tr>
@@ -205,8 +212,10 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
       <a href="https://github.com/shanilka1/online-class-payment-site-english">
         <img src="./assets/project-myict.svg" alt="MyICT Education &amp; Payment Portal" width="100%"/>
       </a>
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=00E7FF&height=32&text=%F0%9F%90%A8%20MyICT%20Education%20%26%20Payment%20Portal&fontSize=15&fontColor=000000&fontAlignY=55" width="100%"/>
-      <br/><br/>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/👨‍🏫_MyICT_Education_%26_Payment_Portal-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" />
+      </p>
       <p align="center">
         <i>Specialized learning portal built for Grade 6–11 ICT students featuring lesson resources, payment slips, and interactive games.</i>
       </p>
@@ -217,8 +226,7 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
         <img src="https://img.shields.io/badge/EdTech-Grade%206--11-9C27B0?style=flat-square&logo=googleclassroom&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://myict-portal.vercel.app"><b>🌐 Live Web Portal ↗</b></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/shanilka1/online-class-payment-site-english"><b>💻 GitHub Repository →</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/shanilka1/online-class-payment-site-english"><b>🔗 View Repository →</b></a> &nbsp;|&nbsp; 
         <a href="https://github.com/shanilka1/ict-game-shanilka"><b>🎮 Interactive ICT Game ↗</b></a>
       </p>
     </td>
