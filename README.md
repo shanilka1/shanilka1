@@ -227,7 +227,9 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
 ## 🏆 GitHub Achievements & Milestones
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shanilka1&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://img.shields.io/badge/GitHub_Status-Active_Developer-00E7FF?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Milestones-CS_Undergraduate-7C4DFF?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack_%26_AI-00B0FF?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
 ---
@@ -235,16 +237,12 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
 ## 📊 GitHub Statistics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanilka1&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanilka1&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://my-readme-stats.vercel.app/api?username=shanilka1&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=shanilka1&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanilka1&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanilka1&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://my-readme-stats.vercel.app/api/top-langs/?username=shanilka1&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
 ---
