@@ -77,12 +77,10 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/shanilka1/AI-Talent-Hub">
-        <img src="./assets/project-ai-talent.svg" alt="AI Talent Hub" width="100%"/>
+        <img src="https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=800&q=80" alt="AI Talent Hub" width="100%"/>
       </a>
-      <br/>
-      <p align="center">
-        <img src="https://img.shields.io/badge/🤖_AI_Talent_Hub-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" />
-      </p>
+      <img src="https://img.shields.io/badge/🤖_AI_Talent_Hub-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" width="100%"/>
+      <br/><br/>
       <p align="center">
         <i>Smart AI-powered recruitment &amp; resume optimization platform featuring automated skill matching and candidate analytics.</i>
       </p>
@@ -98,12 +96,10 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-frontend">
-        <img src="./assets/project-laundry.svg" alt="Laundry Management System" width="100%"/>
+        <img src="https://images.unsplash.com/photo-1582735689369-4fe89db7114c?auto=format&fit=crop&w=800&q=80" alt="Laundry Management System" width="100%"/>
       </a>
-      <br/>
-      <p align="center">
-        <img src="https://img.shields.io/badge/🧺_Laundry_Express_System-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" />
-      </p>
+      <img src="https://img.shields.io/badge/🧺_Laundry_Express_System-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" width="100%"/>
+      <br/><br/>
       <p align="center">
         <i>Full-stack closed-loop laundry pickup &amp; automated delivery management platform with real-time tracking telemetry.</i>
       </p>
@@ -122,12 +118,10 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/shanilka1/nsbm-student-hub">
-        <img src="./assets/project-nsbm-hub.svg" alt="NSBM Student Hub" width="100%"/>
+        <img src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=800&q=80" alt="NSBM Student Hub" width="100%"/>
       </a>
-      <br/>
-      <p align="center">
-        <img src="https://img.shields.io/badge/🎓_NSBM_Student_Hub-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" />
-      </p>
+      <img src="https://img.shields.io/badge/🎓_NSBM_Student_Hub-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" width="100%"/>
+      <br/><br/>
       <p align="center">
         <i>Centralized academic resource sharing &amp; university community platform tailored for Computer Science undergraduates.</i>
       </p>
@@ -143,12 +137,10 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/shanilka1/EcoTrack">
-        <img src="./assets/project-ecotrack.svg" alt="EcoTrack" width="100%"/>
+        <img src="https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=800&q=80" alt="EcoTrack" width="100%"/>
       </a>
-      <br/>
-      <p align="center">
-        <img src="https://img.shields.io/badge/🌱_EcoTrack_Sustainability-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" />
-      </p>
+      <img src="https://img.shields.io/badge/🌱_EcoTrack_Sustainability-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" width="100%"/>
+      <br/><br/>
       <p align="center">
         <i>Cross-platform sustainability mobile application empowering users to monitor carbon footprints and eco daily habits.</i>
       </p>
@@ -167,12 +159,10 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/DarshanaChinthaka/web-project-EC.git">
-        <img src="./assets/project-shopnest.svg" alt="ShopNest E-Commerce" width="100%"/>
+        <img src="https://images.unsplash.com/photo-1472851294608-062f824d29cc?auto=format&fit=crop&w=800&q=80" alt="ShopNest E-Commerce" width="100%"/>
       </a>
-      <br/>
-      <p align="center">
-        <img src="https://img.shields.io/badge/🛍️_ShopNest_E--Commerce-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" />
-      </p>
+      <img src="https://img.shields.io/badge/🛍️_ShopNest_E--Commerce-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" width="100%"/>
+      <br/><br/>
       <p align="center">
         <i>Modern full-stack online shopping platform featuring real-time product search, cart lifecycle, and checkout.</i>
       </p>
@@ -188,12 +178,10 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/KawyaDissanayaka/Medical_ChatBot">
-        <img src="./assets/project-medical-ai.svg" alt="Medical AI Chatbot" width="100%"/>
+        <img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=800&q=80" alt="Medical AI Chatbot" width="100%"/>
       </a>
-      <br/>
-      <p align="center">
-        <img src="https://img.shields.io/badge/🩺_Medical_AI_Chatbot-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" />
-      </p>
+      <img src="https://img.shields.io/badge/🩺_Medical_AI_Chatbot-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" width="100%"/>
+      <br/><br/>
       <p align="center">
         <i>AI-driven healthcare assistant providing automated preliminary symptom diagnosis &amp; medical inquiry response.</i>
       </p>
@@ -211,12 +199,10 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
   <tr>
     <td colspan="2" valign="top" align="center">
       <a href="https://github.com/shanilka1/online-class-payment-site-english">
-        <img src="./assets/project-myict.svg" alt="MyICT Education &amp; Payment Portal" width="100%"/>
+        <img src="https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=800&q=80" alt="MyICT Education &amp; Payment Portal" width="100%"/>
       </a>
-      <br/>
-      <p align="center">
-        <img src="https://img.shields.io/badge/👨‍🏫_MyICT_Education_%26_Payment_Portal-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" />
-      </p>
+      <img src="https://img.shields.io/badge/👨‍🏫_MyICT_Education_%26_Payment_Portal-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" width="100%"/>
+      <br/><br/>
       <p align="center">
         <i>Specialized learning portal built for Grade 6–11 ICT students featuring lesson resources, payment slips, and interactive games.</i>
       </p>
