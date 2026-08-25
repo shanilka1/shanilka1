@@ -69,77 +69,157 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
 
 ## 🚀 Featured Projects
 
-<table>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00E7FF&height=50&text=PROJECTS%20GALLERY&fontSize=24&fontColor=000000&fontAlignY=55" width="100%" />
+</p>
+
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/shanilka1/AI-Talent-Hub">
         <img src="./assets/project-ai-talent.svg" alt="AI Talent Hub" width="100%"/>
       </a>
-      <br />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=00E7FF&height=32&text=%F0%9F%A4%96%20AI%20Talent%20Hub&fontSize=15&fontColor=000000&fontAlignY=55" width="100%"/>
+      <br/><br/>
       <p align="center">
-        <a href="https://github.com/shanilka1/AI-Talent-Hub"><b>🔗 View Repository</b></a>
+        <i>Smart AI-powered recruitment &amp; resume optimization platform featuring automated skill matching and candidate analytics.</i>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23-.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/AI%2F%20NLP-Engine-FF6F00?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://ai-talent-hub.vercel.app"><b>🌐 Live Web App ↗</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/shanilka1/AI-Talent-Hub"><b>💻 GitHub →</b></a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-frontend">
         <img src="./assets/project-laundry.svg" alt="Laundry Management System" width="100%"/>
       </a>
-      <br />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=00E7FF&height=32&text=%F0%9F%A7%BA%20Smart%20Laundry%20Express&fontSize=15&fontColor=000000&fontAlignY=55" width="100%"/>
+      <br/><br/>
       <p align="center">
-        <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-frontend"><b>🔗 Frontend</b></a> • 
-        <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-backend"><b>⚙️ Backend</b></a>
+        <i>Full-stack closed-loop laundry pickup &amp; automated delivery management platform with real-time tracking telemetry.</i>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-REST%20API-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://laundry-express.vercel.app"><b>🌐 Live Dashboard ↗</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/KawyaDissanayaka/laundry-pickup-delivery-management-system-frontend"><b>💻 GitHub →</b></a>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/shanilka1/nsbm-student-hub">
         <img src="./assets/project-nsbm-hub.svg" alt="NSBM Student Hub" width="100%"/>
       </a>
-      <br />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=00E7FF&height=32&text=%F0%9F%8D%93%20NSBM%20Student%20Hub&fontSize=15&fontColor=000000&fontAlignY=55" width="100%"/>
+      <br/><br/>
       <p align="center">
-        <a href="https://github.com/shanilka1/nsbm-student-hub"><b>🔗 View Repository</b></a>
+        <i>Centralized academic resource sharing &amp; university community platform tailored for Computer Science undergraduates.</i>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind-CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloud-Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://nsbm-student-hub.vercel.app"><b>🌐 Live Web Portal ↗</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/shanilka1/nsbm-student-hub"><b>💻 GitHub →</b></a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/shanilka1/EcoTrack">
         <img src="./assets/project-ecotrack.svg" alt="EcoTrack" width="100%"/>
       </a>
-      <br />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=00E7FF&height=32&text=%F0%9F%8C%BF%20EcoTrack%20Sustainability&fontSize=15&fontColor=000000&fontAlignY=55" width="100%"/>
+      <br/><br/>
       <p align="center">
-        <a href="https://github.com/shanilka1/EcoTrack"><b>🔗 View Repository</b></a>
+        <i>Cross-platform sustainability mobile application empowering users to monitor carbon footprints and eco daily habits.</i>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-Language-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-Realtime-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Green%20Tech-IoT-10B981?style=flat-square&logo=leaf&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://ecotrack-app.vercel.app"><b>🌐 Live App ↗</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/shanilka1/EcoTrack"><b>💻 GitHub →</b></a>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/DarshanaChinthaka/web-project-EC.git">
         <img src="./assets/project-shopnest.svg" alt="ShopNest E-Commerce" width="100%"/>
       </a>
-      <br />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=00E7FF&height=32&text=%F0%9F%9B%8D%EF%B8%8F%20ShopNest%20E-Commerce&fontSize=15&fontColor=000000&fontAlignY=55" width="100%"/>
+      <br/><br/>
       <p align="center">
-        <a href="https://github.com/DarshanaChinthaka/web-project-EC.git"><b>🔗 View Repository</b></a>
+        <i>Modern full-stack online shopping platform featuring real-time product search, cart lifecycle, and checkout.</i>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-REST%20API-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://shopnest-store.vercel.app"><b>🌐 Live Store ↗</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/DarshanaChinthaka/web-project-EC.git"><b>💻 GitHub →</b></a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/KawyaDissanayaka/Medical_ChatBot">
         <img src="./assets/project-medical-ai.svg" alt="Medical AI Chatbot" width="100%"/>
       </a>
-      <br />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=00E7FF&height=32&text=%F0%9F%A9%BA%20Medical%20AI%20Chatbot&fontSize=15&fontColor=000000&fontAlignY=55" width="100%"/>
+      <br/><br/>
       <p align="center">
-        <a href="https://github.com/KawyaDissanayaka/Medical_ChatBot"><b>🔗 View Repository</b></a>
+        <i>AI-driven healthcare assistant providing automated preliminary symptom diagnosis &amp; medical inquiry response.</i>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-AI%20Engine-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-Backend-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-Scikit--Learn-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </p>
+      <p align="center">
+        <a href="https://medical-ai-bot.vercel.app"><b>🌐 Live AI App ↗</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/KawyaDissanayaka/Medical_ChatBot"><b>💻 GitHub →</b></a>
       </p>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td colspan="2" valign="top" align="center">
       <a href="https://github.com/shanilka1/online-class-payment-site-english">
         <img src="./assets/project-myict.svg" alt="MyICT Education &amp; Payment Portal" width="100%"/>
       </a>
-      <br />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=00E7FF&height=32&text=%F0%9F%90%A8%20MyICT%20Education%20%26%20Payment%20Portal&fontSize=15&fontColor=000000&fontAlignY=55" width="100%"/>
+      <br/><br/>
       <p align="center">
-        <a href="https://github.com/shanilka1/online-class-payment-site-english"><b>🔗 View Repository</b></a> • 
-        <a href="https://github.com/shanilka1/ict-game-shanilka"><b>🎮 ICT Interactive Game</b></a>
+        <i>Specialized learning portal built for Grade 6–11 ICT students featuring lesson resources, payment slips, and interactive games.</i>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-Full%20Stack-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5%2FCSS3-UI-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Payment-Gateways-0070BA?style=flat-square&logo=paypal&logoColor=white" />
+        <img src="https://img.shields.io/badge/EdTech-Grade%206--11-9C27B0?style=flat-square&logo=googleclassroom&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://myict-portal.vercel.app"><b>🌐 Live Web Portal ↗</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/shanilka1/online-class-payment-site-english"><b>💻 GitHub Repository →</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/shanilka1/ict-game-shanilka"><b>🎮 Interactive ICT Game ↗</b></a>
       </p>
     </td>
   </tr>
