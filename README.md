@@ -159,7 +159,8 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
         <img src="https://img.shields.io/badge/Green%20Tech-IoT-10B981?style=flat-square&logo=leaf&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/shanilka1/EcoTrack"><b>🔗 View Repository →</b></a>
+        <a href="https://ecotrack-100ff.web.app"><b>🌐 Live Web App ↗</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/shanilka1/EcoTrack"><b>💻 GitHub →</b></a>
       </p>
     </td>
   </tr>
