@@ -214,10 +214,10 @@ Experienced and enthusiastic **Computer Science Undergraduate**, **Software Engi
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/shanilka1/online-class-payment-site-english">
-        <img src="https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=800&q=80" alt="MyICT Education &amp; Payment Portal" width="100%"/>
+      <a href="https://slrict.com">
+        <img src="https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=800&q=80" alt="SLRICT Education &amp; Payment Portal" width="100%"/>
       </a>
-      <img src="https://img.shields.io/badge/👨‍🏫_MyICT_Education_%26_Payment_Portal-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" width="100%"/>
+      <img src="https://img.shields.io/badge/👨‍🏫_SLRICT_Education_%26_Payment_Portal-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" width="100%"/>
       <br/><br/>
       <p align="center">
         <i>Specialized learning portal built for Grade 6–11 ICT students featuring lesson resources, payment slips, and interactive games.</i>
@@ -229,8 +229,8 @@ Experienced and enthusiastic **Computer Science Undergraduate**, **Software Engi
         <img src="https://img.shields.io/badge/EdTech-Grade%206--11-9C27B0?style=flat-square&logo=googleclassroom&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/shanilka1/online-class-payment-site-english"><b>🔗 View Repository →</b></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/shanilka1/ict-game-shanilka"><b>🎮 Interactive ICT Game ↗</b></a>
+        <a href="https://slrict.com"><b>🌐 Live Website ↗</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/shanilka1/online-class-payment-site-english"><b>💻 GitHub →</b></a>
       </p>
     </td>
     <td width="50%" valign="top" align="center">
