@@ -38,11 +38,25 @@
 
 ---
 
+## 💼 Professional Experience
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Software%20Engineering%20Intern-00B0FF?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <a href="https://applantics.com">
+    <img src="https://img.shields.io/badge/Company-Applantics%20(PVT)%20LTD-00E676?style=for-the-badge"/>
+  </a>
+</p>
+
+> 💻 **Software Engineering Intern** at **Applantics (PVT) LTD**. Developed and maintained scalable software solutions, primarily focusing on building a comprehensive **Restaurant POS System**, gaining hands-on experience in full-stack development and industry best practices.
+
+---
+
 ## 👨‍💻 About Me
 
-Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educator** with strong hands-on experience building practical, modern full-stack web applications, AI-integrated solutions, and educational platforms.
+Experienced and enthusiastic **Computer Science Undergraduate**, **Software Engineering Intern**, and **ICT Educator** with strong hands-on experience building practical, modern full-stack web applications, AI-integrated solutions, and educational platforms.
 
 - 🎓 **BSc (Hons) in Computer Science** at **NSBM Green University**
+- 💼 **Software Engineering Intern** at **Applantics (PVT) LTD**
 - 👨‍🏫 **ICT Educator & Mentor** for **Grade 6 – 11** students (Theory, Practical & Paper classes)
 - 💡 Passionate about **Full-Stack Development**, **AI/NLP Systems**, **System Architecture**, and **Clean Code**
 - 🚀 Strong problem-solving abilities and dedication to simplifying complex technical concepts for learners
@@ -199,7 +213,7 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/shanilka1/online-class-payment-site-english">
         <img src="https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=800&q=80" alt="MyICT Education &amp; Payment Portal" width="100%"/>
       </a>
@@ -217,6 +231,23 @@ Experienced and enthusiastic **Computer Science Undergraduate** and **ICT Educat
       <p align="center">
         <a href="https://github.com/shanilka1/online-class-payment-site-english"><b>🔗 View Repository →</b></a> &nbsp;|&nbsp; 
         <a href="https://github.com/shanilka1/ict-game-shanilka"><b>🎮 Interactive ICT Game ↗</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=800&q=80" alt="Restaurant POS System" width="100%"/>
+      <img src="https://img.shields.io/badge/🍽️_Restaurant_POS_System-00E7FF?style=for-the-badge&labelColor=00E7FF&color=00E7FF" width="100%"/>
+      <br/><br/>
+      <p align="center">
+        <i>Modern, robust Point of Sale (POS) system built during my internship at Applantics (PVT) LTD to streamline restaurant operations, orders, and billing.</i>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Full--Stack-Development-6366F1?style=flat-square" />
+        <img src="https://img.shields.io/badge/UI%2FUX-Design-E34F26?style=flat-square" />
+        <img src="https://img.shields.io/badge/Database-Management-4479A1?style=flat-square" />
+        <img src="https://img.shields.io/badge/Company-Project-000000?style=flat-square&logo=organization&logoColor=white" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/🔒_Private_Repository-Applantics_Internship-gray?style=flat-square" />
       </p>
     </td>
   </tr>
